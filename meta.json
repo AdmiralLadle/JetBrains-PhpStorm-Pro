@@ -1,0 +1,26 @@
+{
+  "repo": "jetbrains-phpstorm-pro",
+  "product": "JetBrains PhpStorm Pro",
+  "kind": "developer",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "ide-tools",
+  "topics": [
+    "jetbrains-phpstorm-pro",
+    "jetbrains-desktop",
+    "jetbrains-windows",
+    "code-editor",
+    "python-development",
+    "debugging-tools",
+    "git-integration",
+    "ide-desktop",
+    "software-development",
+    "programming-workspace",
+    "developer-tools",
+    "windows-ide",
+    "project-refactoring"
+  ],
+  "site": "zentool.art"
+}
